@@ -1,8 +1,3 @@
-Berikut adalah versi lengkap untuk file `README.md` yang lebih mendetail, sesuai dengan proyek **MasjidManagement**:
-
-```markdown
-# MasjidManagement
-
 **MasjidManagement** adalah sebuah aplikasi manajemen masjid yang dirancang untuk membantu pengelolaan administrasi dan operasional masjid secara efisien. Aplikasi ini dibuat menggunakan **TypeScript** dengan fokus pada kemudahan penggunaan dan skalabilitas.
 
 ## 🚀 Fitur Utama
