@@ -125,7 +125,7 @@ Jika Anda memiliki pertanyaan, saran, atau masukan, silakan hubungi kami melalui
 - **Email**: habizinnia@gmail.com
 - **GitHub Issues**: [Laporkan masalah atau saran di sini](https://github.com/habiutomo/MasjidManagement/issues)
 
-- donasi : BCA HABI UTOMO
+- Donasi : BCA HABI UTOMO
 7445463876
 
 ---
